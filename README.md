@@ -1,4 +1,10 @@
-# vgt1 -  SCRIPTING & PROGRAMMING APPLICATIONS
+# C169
+
+This is my project for C169 at WGU, Intro to Java
+
+Not accepting PRs or contributions, just storing on Github for ease of access and version control...
+
+---
 
 ## Student Roster
 

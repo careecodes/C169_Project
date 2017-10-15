@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=studentID\ firstname\ lastname\ emailaddress\ age\ grade1\ grade2\ grade3
+comment0.target=Roster(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Roster\r\n
+comment1.params=studentID\ firstname\ lastname\ emailaddress\ age\ grade1\ grade2\ grade3
+comment1.target=void\ add(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int)
+comment2.params=studentID
+comment2.target=void\ remove(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getstudentID()
+numComments=4
